@@ -133,7 +133,7 @@ The system follows a modern three-tier architecture:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/karmayogi-assets.git
+git clone https://github.com/sidgureja7803/GovernmentAssetRegistry.git
 cd karmayogi-assets
 ```
 
